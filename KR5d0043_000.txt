@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 01:14:44.810411
+#+TITLE: 黃帝內經素問遺篇
+#+PROPERTY: DZID  DZ1021
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，21—459 五卷 太玄部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
